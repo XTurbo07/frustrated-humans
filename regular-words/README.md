@@ -1,26 +1,29 @@
-# Regular Gali
+# 🤬 **Regular Gali**  
 
-Regular Gali is a simple, lightweight, and easy-to-use web framework for Python. It is designed to be simple and easy to use, with a focus on simplicity and ease of use.
+**Regular Gali** is a simple, lightweight, and easy-to-use web framework for Python. It is designed with a focus on **simplicity** and **ease of use**.  
 
-## Features
+---
 
-### 1. building support for reducing frustration
-### learning new galis
-### 2. easy to use
-### 3. easy to learn
-### 4. easy to install
-### 5. easy to use
-### 6. easy to learn
+## ✨ Features  
 
+1. 🛠️ **Building support** for reducing frustration  
+2. 📚 **Learning new galis**  
+3. 👍 **Easy to use**  
+4. 🎓 **Easy to learn**  
+5. 🧩 **Easy to install**  
+6. 🤝 **User-friendly**  
+7. 🚀 **Beginner-friendly**  
 
-## Installation 
- 
-1. **BOKACHODA**
-2. **DMNACHODA**
-3. **KUTTACHODA**
-4. **LAWRACHODA**
-5. **LAWRACHOD**
-6. **KHANKIR CHELE**
-7. **CHUDMARANI**
-8. **GUD MARANI**
-9. **MANG MARANI**
+---
+
+## ⚙️ **Installation**  
+
+- 🔥 **BOKACHODA**  
+- 🤬 **DMNACHODA**  
+- 🐶 **KUTTACHODA**  
+- 🍆 **LAWRACHODA**  
+- 🍆 **LAWRACHOD**  
+- 👹 **KHANKIR CHELE**  
+- 🖕 **CHUDMARANI**  
+- 🍑 **GUD MARANI**  
+- 💀 **MANG MARANI**  
