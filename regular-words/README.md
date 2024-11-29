@@ -27,3 +27,8 @@
 - 🖕 **CHUDMARANI**  
 - 🍑 **GUD MARANI**  
 - 💀 **MANG MARANI**  
+- 🥵 **RENDI CHODA**
+- 👽 **BESHYA CHODA**
+- 🐯 **KUTTI CHODA**
+- 🤗 **KHANKI MAAGI**
+- 👾 **MADAR CHOD**
