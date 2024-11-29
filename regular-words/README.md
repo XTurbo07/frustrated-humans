@@ -32,3 +32,6 @@
 - 🐯 **KUTTI CHODA**
 - 🤗 **KHANKI MAAGI**
 - 👾 **MADAR CHOD**
+- 🦷 **BARA CHODA**
+- ☠️ **BOBRA CHODA**
+- 😺 **BEHEN KE LAUDE**
